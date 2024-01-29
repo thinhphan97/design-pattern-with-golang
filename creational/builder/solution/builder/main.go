@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/thinhphan97/design-pattern-with-golang/creational/builder/solution/internal"
+	"github.com/thinhphan97/design-pattern-with-golang/creational/builder/solution/builder/internal"
 )
 
 func main() {
